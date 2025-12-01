@@ -1,3 +1,4 @@
+// Take costs of three items from user and print bill with tax and also show without tax.
 #include <iostream>
 using namespace std;
 int main (){
