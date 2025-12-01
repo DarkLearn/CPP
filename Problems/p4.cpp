@@ -10,7 +10,7 @@ int main (){
     // cout << "Enter width: ";
     // cin >> w;
 
-    float a = l * l; // area of square. a ---> area
+    float a = l * l; // area of square & a ---> area
     
     cout << "Area of square: " << a << endl;
     return 0;
