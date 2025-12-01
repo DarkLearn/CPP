@@ -5,6 +5,7 @@ int main (){
 
     cout << "Enter length(any side): ";
     cin >> l;
+    
     // cout << "Enter width: ";
     // cin >> w;
 
