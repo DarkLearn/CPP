@@ -35,7 +35,7 @@ float x = 5.0 + 3;
 
 ## ⭐ 5) Explicit Casting (Manual Conversion)
 
-Coder can force:
+Coder can force:<br>
 `(float)18/100` <br>
 `18.0/100` <br>
 `static_cast<float>(18)/100`
