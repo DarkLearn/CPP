@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 int main (){
-    float l,w; // length & width
+    float l; // length of any side
 
-    cout << "Enter length: ";
+    cout << "Enter length(any side): ";
     cin >> l;
-    cout << "Enter width: ";
-    cin >> w;
+    // cout << "Enter width: ";
+    // cin >> w;
 
-    float a = l * w; // area of square. a ---> area
+    float a = l * l; // area of square. a ---> area
     
     cout << "Area of square: " << a << endl;
     return 0;
