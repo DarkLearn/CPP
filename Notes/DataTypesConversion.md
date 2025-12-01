@@ -12,6 +12,7 @@ C++ automatically smaller → bigger type can be convert.
 - int / double → double
 - float / double → double
 - double / float → double
+
 Note: Bigger type always wins.
 
 ## 2) Important Rule
