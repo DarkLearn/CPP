@@ -1,3 +1,4 @@
+// Take Pricipal, rate and time from user and show Simple Interest
 #include<iostream>
 using namespace std;
 int main (){
