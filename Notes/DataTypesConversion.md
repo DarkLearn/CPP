@@ -18,7 +18,8 @@ Note: Bigger type always wins.
 ## 2) Important Rule
 
 Variable data type can't change result.
-Example: float x = 18 / 100;   // result int=0 → float me 0.0
+
+Example: ``float x = 18 / 100;   // result int=0 → in float 0.0``
 
 ## 3) Decimal number = default double
 
