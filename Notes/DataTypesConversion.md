@@ -28,7 +28,7 @@ Example: ``float x = 18 / 100;   // result int=0 → in float 0.0``
 
 Note: If we type: 
 
--5.0f  → Now this type is float. [ Not Double ]
+- 5.0f  → Now this type is float. [ Not Double ]
 
 ## 4) Before Store result is in bigger type
 
