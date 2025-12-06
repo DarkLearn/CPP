@@ -31,7 +31,7 @@ Example: ``float x = 18 / 100;   // result int=0 → in float 0.0``
 float x = 5.0 + 3;
 
 - First result = double
-- Then float convert in float.
+- Then double convert in float.
 
 ## ⭐ 5) Explicit Casting (Manual Conversion)
 
