@@ -1,4 +1,4 @@
-// Print digits of given number in reverse using while loop.
+// Print digits of given number in variable [result] using while loop.
 #include <iostream>
 using namespace std;
 
@@ -16,9 +16,9 @@ int main ()
         dig = n % 10;
         res = res * 10 + dig;
         n /= 10;
-        cout << res << endl;
         i++;
     }
+    cout << res << endl;
     
     return 0;
 }
