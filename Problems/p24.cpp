@@ -9,7 +9,7 @@ using namespace std;
 	int sum = 0;
 	int dig;
 // These are variables for storing digit one by one.
-
+// This is for both positive and negative number input.
 	int i = 1;
 	while (n != 0) // OR while (n > 0)
         {
@@ -30,7 +30,7 @@ using namespace std;
     int sum1 = 0;
     cout << "Enter number:(For Loop) ";
     cin >> n1;
-
+// This is just for positive number input.
     for (int j = 1; n1 > 0; j++){
         dig1 = n1 % 10;
         n1 = n1/10;
@@ -38,6 +38,7 @@ using namespace std;
     }
     cout << "Sum1 = " << sum1 << endl;
 
+	
 	return 0;
 	
 	
